@@ -22,3 +22,4 @@ export class Demo extends SmartContract {
         assert(sha256(message) == this.hash, 'incorrect hash')
     }
 }
+kefnrjvrjr
